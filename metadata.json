@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "defaultFile": "solidity",
-  "environment": "near-asm",
+  "defaultFile": "dummy.sh",
+  "environment": "solidity",
   "setupCommands": [],
   "compileCommand": "sh dummy.sh",
   "tests": [
