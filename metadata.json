@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "defaultFile": "",
+  "environment": "Near-asm",
+  "setupCommands": [],
+  "compileCommand": "sh dummy.sh",
+  "tests": [
+    { "itShould": "Compile", "command": "sh dummy.sh" }
+  ],
+  "learnerAccessibleFileList": ["hello.txt"]
+}
